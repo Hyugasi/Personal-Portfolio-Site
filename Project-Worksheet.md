@@ -8,17 +8,17 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Finish wireframe and planning for portfolio| Incomplete
-|Day 1| want to have the html done at least with proper formatting and classing | Incomplete
-|Day 3| I would like to work with the reactivity of the website like working | Incomplete
-|Day 4| focus on styling and layout | Incomplete
-|Day 5| focus on MVPs | Incomplete
-|Day 6| maybe some post MVPs | Incomplete
+|Day 1| Project Description| Incomplete
+|Day 1| Wireframes, Priority Matrix and Timeline  | Incomplete
+|Day 3| Core Application Structure(HTML & CSS) | Incomplete
+|Day 4| MVP things| Incomplete
+|Day 5| MVP things and maybe postMVP | Incomplete
+|Day 6| present| Incomplete
 
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+I would like to have a heading that stay with you as you scroll down the page, it would just change size. I would also like to have a user input at the bottom of the page that will let them contact me, along with a linkedin icon that will take them to my linkedin page. 
 
 ## Google Sheet
 
@@ -38,20 +38,23 @@ Now create a separate list starting with A and assign it one of the features.  C
 
 Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
 
+
+
 ### MVP/PostMVP - 5min
 
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
-#### MVP (examples)
+#### MVP
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Pull the data from the projects to the site
+- Render that data on the page
+- Make an input for the user to send me their information
 
 #### PostMVP 
 
-- Anything else that is not MVP
+- A drop down menu for the heading
+- A heading that shrinks when you scroll down
+- Responsive design
 
 ## Functional Components
 
@@ -61,9 +64,14 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| A nice background image | H | 1hrs | 0hrs | 0hrs |
+| A paragraph about me | H | 1hrs| 0hrs | 0hrs |
+| A sliding bar that will showcase my projects| L | 5hrs| 0hrs | 0hrs |
+| Inputing the data for the projects | H | 3hrs| 0hrs | 0hrs |
+| Adding icons that link to my media's | H | 2hrs| 0hrs | 0hrs |
+| A user input that will store their inputted data | H | 6hrs| 0hrs | 0hrs |
+| A link that will say press for fun | L | 2hrs| 0hrs | 0hrs |
+| Total | H | 20 hrs| 0hrs | 0hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
