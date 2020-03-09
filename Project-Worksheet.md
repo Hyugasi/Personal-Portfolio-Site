@@ -51,12 +51,12 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Pull the data from the projects to the site
 - Render that data on the page
 - Make an input for the user to send me their information
+- Responsive design :)
 
 #### PostMVP 
 
 - A drop down menu for the heading
 - A heading that shrinks when you scroll down
-- Responsive design
 
 ## Functional Components
 
