@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/14G7FymaxpdAgNrQGA0VjtZpni3n6LBznLBRQ9fuU
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-https://imgur.com/a/ia9uEPc
+https://imgur.com/a/tVjPo3d
 
 ## Time/Priority Matrix 
 
