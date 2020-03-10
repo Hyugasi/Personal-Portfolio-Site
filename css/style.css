@@ -1,0 +1,12 @@
+
+ul, h1, h2 {
+    color: rgb(5, 56, 99);
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: lightslategray; */
+    background-image: url(https://unsplash.com/photos/dVRD8E3XUGs);
+}
+a {
+    text-decoration: none;
+    color: rgb(5, 56, 99);
+}
