@@ -71,7 +71,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | A sliding bar that will showcase my projects| L | 5hrs| 0hrs | 0hrs |
 | Inputing the data for the projects | H | 3hrs| 5hrs | 0hrs |
 | Adding icons that link to my media's | H | 2hrs| 0hrs | 0hrs |
-| A user input that will store their inputted data | H | 6hrs| 0hrs | 0hrs |
+| A user input that will store their inputted data | H | 6hrs| 2hrs | 0hrs |
 | A link that will say press for fun | L | 2hrs| 0hrs | 0hrs |
 | Total | H | 20 hrs| 0hrs | 0hrs |
 
