@@ -26,21 +26,16 @@ a {
 }
 
 .about {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    /* justify-content: row; */
+    display: flex;
+    justify-content: space-evenly;
     background-color: lightgray;
     margin: 0px;
-    grid-column: 1/2;
-    grid-row: 1/2;
-
 }
-.contact {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    margin: 0px;
-    grid-column: 1/2;
+.about {
+    padding-bottom: 30px;
+}
+.form {
+    display: flex;
+    justify-content: space-around;
     background-color: lightblue;
 }
