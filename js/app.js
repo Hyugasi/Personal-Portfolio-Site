@@ -17,31 +17,16 @@ fetch(source)
   .catch ( err => console.log('err', err))
 function app(projects) {
   console.log('app - projects', projects)
-//   for(let i = 0; i = projects.length; i++){
-//     const $div = $('<div>').attr('class', 'ItemContainer')
-//     const $a = $('<a>')
-//     const $div2 = $('<div>')
-//     const $img = $('<img>')
-//     const $h4 = $('<h4>')
-//     const $p = $('<p>')
+  // for(let i = 0; i = projects.length; i++){
+  //   const $div = $('<div>').attr('class', 'ItemContainer')
+  //   const $a = $('<a>')
+  //   const $div2 = $('<div>')
+  //   const $img = $('<img>')
+  //   const $h4 = $('<h4>')
+  //   const $p = $('<p>')
 
-//     $div.append($a)
-//     $a.append($div2)
-//     $div2.append($img, $h4, $p)
-//     console.log($div)
-//   }
+  //   $div.append($a)
+  //   $a.append($div2)
+  //   $div2.append($img, $h4, $p)
+  // }
 }
-
-//   for(let i = 0; i = projects.length; i++){
-//     const $div = $('<div>').attr('class', 'ItemContainer')
-//     const $a = $('<a>')
-//     const $div2 = $('<div>')
-//     const $img = $('<img>')
-//     const $h4 = $('<h4>')
-//     const $p = $('<p>')
-
-//     $div.append($a)
-//     $a.append($div2)
-//     $div2.append($img, $h4, $p)
-//     console.log($div)
-//   }

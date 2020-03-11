@@ -3,10 +3,10 @@ body {
 }
 ul{
     list-style-type: none;
-    color: white;
+    color: #778899;
     display: flex;
     justify-content: space-between;
-    background-image: url(https://images.unsplash.com/photo-1578070181910-f1e514afdd08?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1404&q=80);
+    background-color: lightblue;
 }
 
 header{
@@ -23,4 +23,24 @@ a {
 
 .mywork {
     text-align: center;
+}
+
+.about {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    /* justify-content: row; */
+    background-color: lightgray;
+    margin: 0px;
+    grid-column: 1/2;
+    grid-row: 1/2;
+
+}
+.contact {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    margin: 0px;
+    grid-column: 1/2;
+    background-color: lightblue;
 }
