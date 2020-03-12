@@ -37,8 +37,7 @@ img {
 .about {
     padding-bottom: 30px;
 }
-.form {
-    display: flex;
-    justify-content: space-around;
+#googleForm {
+    text-align: center;
     background-color: lightblue;
 }
