@@ -17,16 +17,15 @@ fetch(source)
   .catch ( err => console.log('err', err))
 function app(projects) {
   console.log('app - projects', projects)
-  // for(let i = 0; i = projects.length; i++){
-  //   const $div = $('<div>').attr('class', 'ItemContainer')
-  //   const $a = $('<a>')
-  //   const $div2 = $('<div>')
-  //   const $img = $('<img>')
-  //   const $h4 = $('<h4>')
-  //   const $p = $('<p>')
-
-  //   $div.append($a)
-  //   $a.append($div2)
-  //   $div2.append($img, $h4, $p)
-  // }
+  for (let i = 0; i < projects.length; i++) {
+    let $card = `<div class="card">
+        <img src="${projects[i].image}"></img>
+        <div>
+            <h4>${projects[i].title}</h4>
+            <p>${projects[i].description}</p>
+            <a href="${projects[i].url}" target="_blank">Check it out!</a>
+        </div>
+    </div>`
+    $('#projects').append($card)
+}
 }

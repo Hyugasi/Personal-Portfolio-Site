@@ -31,13 +31,26 @@ a {
     background-color: lightgray;
     margin: 0px;
 }
+
 img {
     max-width: 400px;
 }
+
 .about {
     padding-bottom: 30px;
 }
+
 #googleForm {
     text-align: center;
     background-color: lightblue;
+}
+
+#projects {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 20px;
 }
