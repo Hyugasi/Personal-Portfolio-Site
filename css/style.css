@@ -1,12 +1,16 @@
 body {
+    width: 100%;
+    margin: 0 auto;
     background-image: url(https://images.unsplash.com/photo-1536566482680-fca31930a0bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80);
 }
 ul{
+    
     list-style-type: none;
     color: #778899;
     display: flex;
     justify-content: space-between;
     background-color: lightblue;
+    padding: 2vh;
 }
 
 header{
@@ -33,7 +37,7 @@ a {
 }
 
 img {
-    max-width: 400px;
+    max-width: 15vw;
 }
 
 .about {

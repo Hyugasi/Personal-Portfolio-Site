@@ -19,11 +19,12 @@ function app(projects) {
   console.log('app - projects', projects)
   for (let i = 0; i < projects.length; i++) {
     let $card = `<div class="card">
-        <img src="${projects[i].image}"></img>
+    <a href="${projects[i].url}" target="_blank">  
+      <img src="${projects[i].image}"></img>
+    </a>    
         <div>
             <h4>${projects[i].title}</h4>
             <p>${projects[i].description}</p>
-            <a href="${projects[i].url}" target="_blank">Check it out!</a>
         </div>
     </div>`
     $('#projects').append($card)
