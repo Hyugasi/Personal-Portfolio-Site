@@ -10,8 +10,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |Day 1| Project Description| Complete
 |Day 1| Wireframes, Priority Matrix and Timeline  | Complete
-|Day 3| Core Application Structure(HTML & CSS) | Incomplete
-|Day 4| MVP things| Incomplete
+|Day 3| Core Application Structure(HTML & CSS) | Complete
+|Day 4| MVP things| Complete
 |Day 5| MVP things and maybe postMVP | Incomplete
 |Day 6| present| Incomplete
 
@@ -67,9 +67,9 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | A nice background image | H | 1hrs | 0.5hrs | 0hrs |
-| A paragraph about me | H | 1hrs| 0hrs | 0hrs |
+| A paragraph about me | H | 1hrs| 1hrs | 0hrs |
 | A sliding bar that will showcase my projects| L | 5hrs| 0hrs | 0hrs |
-| Inputing the data for the projects | H | 3hrs| 5hrs | 0hrs |
+| Inputing the data for the projects | H | 3hrs| 7hrs | 0hrs |
 | Adding icons that link to my media's | H | 2hrs| 2hrs | 0hrs |
 | A user input that will store their inputted data | H | 6hrs| 2hrs | 0hrs |
 | A link that will say press for fun | L | 2hrs| 0hrs | 0hrs |
