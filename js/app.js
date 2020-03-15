@@ -38,7 +38,7 @@ function onClickMenu(){
 //inspiration for hamburger menu came from: 
 // https://github.com/abarna-codespot/Hamburger-Menu
 
-
+//THIS IS A FAILURE
 // $(document).ready(onClickMenu(),{
 //     $('#menu').classList.toggle('change')
 //     $('#nav').classList.toggle('change')

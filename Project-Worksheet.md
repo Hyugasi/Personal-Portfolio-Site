@@ -82,9 +82,12 @@ Time frames are also key in the development cycle.  You have limited time to cod
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
 
 ```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
+//THIS IS A FAILURE
+// $(document).ready(onClickMenu(),{
+//     $('#menu').classList.toggle('change')
+//     $('#nav').classList.toggle('change')
+//     $('#menu-bg').classList.toggle('change-bg')
+// })
 ```
 
 ## Issues and Resolutions
