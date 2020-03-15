@@ -16,7 +16,6 @@ fetch(source)
 })
   .catch ( err => console.log('err', err))
 function app(projects) {
-  console.log('app - projects', projects)
   for (let i = 0; i < projects.length; i++) {
     let $card = `<div class="card">
     <a href="${projects[i].url}" target="_blank">  
@@ -30,3 +29,18 @@ function app(projects) {
     $('#projects').append($card)
 }
 }
+function onClickMenu(){
+	document.getElementById("menu").classList.toggle("change");
+	document.getElementById("nav").classList.toggle("change");
+	
+	document.getElementById("menu-bg").classList.toggle("change-bg");
+}
+//inspiration for hamburger menu came from: 
+// https://github.com/abarna-codespot/Hamburger-Menu
+
+
+// $(document).ready(onClickMenu(),{
+//     $('#menu').classList.toggle('change')
+//     $('#nav').classList.toggle('change')
+//     $('#menu-bg').classList.toggle('change-bg')
+// })
