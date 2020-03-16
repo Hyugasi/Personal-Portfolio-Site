@@ -16,13 +16,15 @@ body {
     width: 100%;
 }
 
-.contact{
+#contact{
     list-style-type: none;
     color: #778899;
-    display: flex;
-    justify-content: space-between;
+    /* display: flex;
+    justify-content: space-between; */
     background-color: #262626;
     padding: 2vh;
+    text-align: center;
+    line-height: 2;
 }
 
 header{
@@ -48,7 +50,7 @@ h1 {
     padding: 20px 0;
 }
 
-.aboutme {
+#aboutme {
     font-family: 'PT Serif';
     text-align: center;
     display: flex;
@@ -67,7 +69,7 @@ img {
     max-width: 50vw;
 }
 
-.googleForm {
+#googleForm {
     padding-top: 20px;
     background-color: #262626;
 }
@@ -85,6 +87,8 @@ img {
 .card {
     margin: 20px;
 }
+/* inspiration for hamburger menu came from: 
+ https://github.com/abarna-codespot/Hamburger-Menu */
 
 #menu{
 	width: 35px;
@@ -98,7 +102,7 @@ img {
 	background-color: #49728C;
 	display: block;
 	border-radius: 5px;
-	transition: 0.3s ease;
+	transition: 0.5s ease;
 }
 #bar1{
 	transform: translateY(-4px);
