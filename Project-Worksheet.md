@@ -2,10 +2,6 @@
 
 ## Project Schedule
 
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
-
 |  Day | Deliverable | Status
 |---|---| ---|
 |Day 1| Project Description| Complete
@@ -75,15 +71,28 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Total | H | 15 hrs| 20 hrs | 22hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
-
+https://github.com/abarna-codespot/Hamburger-Menu
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
+Use this section to include a brief code snippet of functionality that you are proud of an a brief description
 
 ```
-
+function app(projects) {
+  for (let i = 0; i < projects.length; i++) {
+    let $card = `<div class="card">
+    <a href="${projects[i].url}" target="_blank">  
+      <img src="${projects[i].image}"></img>
+    </a>    
+        <div>
+            <h4>${projects[i].title}</h4>
+            <p>${projects[i].description}</p>
+        </div>
+    </div>`
+    $('#projects').append($card)
+}
+}
 ```
+I liked this because it was really hard for me to figure it all out and get the projects to be there.
 
 ## Issues and Resolutions
  Use this section to list of all major issues encountered and their resolution.
