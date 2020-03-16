@@ -12,8 +12,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 1| Wireframes, Priority Matrix and Timeline  | Complete
 |Day 3| Core Application Structure(HTML & CSS) | Complete
 |Day 4| MVP things| Complete
-|Day 5| MVP things and maybe postMVP | Incomplete
-|Day 6| present| Incomplete
+|Day 5| MVP things and maybe postMVP | Complete
+|Day 6| present| Complete
 
 
 ## Project Description
@@ -72,7 +72,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Adding icons that link to my media's | H | 2hrs| 2hrs | 0hrs |
 | A user input that will store their inputted data | H | 6hrs| 2hrs | 0hrs |
 | A link that will say press for fun | L | 2hrs| .2hrs | .02hrs |
-| Total | H | 15 hrs| 20 hrs | 18hrs |
+| Total | H | 15 hrs| 20 hrs | 22hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 

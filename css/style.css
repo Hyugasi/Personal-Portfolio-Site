@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 }
 
 footer {
@@ -22,8 +23,6 @@ h2 {
 #contact{
     list-style-type: none;
     color: #778899;
-    /* display: flex;
-    justify-content: space-between; */
     background-color: #262626;
     padding: 2vh;
     text-align: center;
