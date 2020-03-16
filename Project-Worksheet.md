@@ -72,7 +72,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Adding icons that link to my media's | H | 2hrs| 2hrs | 0hrs |
 | A user input that will store their inputted data | H | 6hrs| 2hrs | 0hrs |
 | A link that will say press for fun | L | 2hrs| 0hrs | 0hrs |
-| Total | H | 20 hrs| 0hrs | 0hrs |
+| Total | H | 15 hrs| 20 hrs | 18hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
@@ -82,16 +82,21 @@ Time frames are also key in the development cycle.  You have limited time to cod
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
 
 ```
+
+```
+
+## Issues and Resolutions
+ Use this section to list of all major issues encountered and their resolution.
+I tried to convert something to jQuery and it just didn't work quite right.
+ ```
 //THIS IS A FAILURE
 // $(document).ready(onClickMenu(),{
 //     $('#menu').classList.toggle('change')
 //     $('#nav').classList.toggle('change')
 //     $('#menu-bg').classList.toggle('change-bg')
 // })
-```
-
-## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
+ ```
+ **RESOLUTION**: Still no resolution :(
 
 #### SAMPLE.....
 **ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
