@@ -16,6 +16,9 @@
 
 I would like to have a heading that stay with you as you scroll down the page, it would just change size. I would also like to have a user input at the bottom of the page that will let them contact me, along with a linkedin icon that will take them to my linkedin page. 
 
+Youtube Link: https://www.youtube.com/watch?v=hpI47xUOsaM
+Projects Included on site: https://docs.google.com/spreadsheets/d/14G7FymaxpdAgNrQGA0VjtZpni3n6LBznLBRQ9fuUbrc/edit#gid=0
+
 ## Google Sheet
 
 https://docs.google.com/spreadsheets/d/14G7FymaxpdAgNrQGA0VjtZpni3n6LBznLBRQ9fuUbrc/edit#gid=0
