@@ -15,6 +15,9 @@ footer {
 body {
     width: 100%;
 }
+h2 {
+    font-family: 'Source Serif Pro';
+}
 
 #contact{
     list-style-type: none;
